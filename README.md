@@ -1,1 +1,1 @@
-# Prodigy_DS_1
+# Prodigy Data Science Projects
